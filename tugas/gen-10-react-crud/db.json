@@ -1,0 +1,22 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "title": "Ranah 3 Warna",
+        "author": "Ahmad Fuadi",
+        "publisher": "Gramedia"
+      },
+      {
+        "id": 2,
+        "title": "Laut Bercerita",
+        "author": "Leila Salikha Chudori",
+        "publisher": "Gramedia"
+      },
+      {
+        "id": 3,
+        "title": "SagaraS",
+        "author": "Tere Liye",
+        "publisher": "Gramedia"
+      }
+    ]
+  }
